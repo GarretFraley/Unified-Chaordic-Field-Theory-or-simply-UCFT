@@ -85,7 +85,7 @@ Now, UCFT can predict g/κ for any recursion depth n.
 7. UCFT Predictions vs Experimental Observations
 
 Recursion Depth (n)	UCFT Predicted g/κ	Scientist Observed Behavior
-29	0.316	Quantum regime (thresholdless)
+>29	0.316	Quantum regime (thresholdless)
 30	0.178	Quantum influence weakens
 31	0.1	Transition zone begins
 32	0.01	Classical threshold observed
