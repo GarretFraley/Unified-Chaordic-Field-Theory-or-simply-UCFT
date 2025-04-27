@@ -99,11 +99,12 @@ Explanation:
 
 8. Understanding Coupling Regimes
 
-g/κ Value	Physical Interpretation
-> 1	Strong Coupling (Deep Quantum)
-0.1 – 1	Intermediate (Quantum-Leaning)
-≈ 0.01	Classical Threshold Emerges
-<< 0.01	Fully Classical Behavior
+| g/κ Value  | Physical Interpretation    |
+|------------|-----------------------------|
+| > 1        | Strong Coupling (Quantum)   |
+| 0.1 – 1    | Intermediate (Quantum-Leaning) |
+| ≈ 0.01     | Classical Threshold Emerges |
+| << 0.01    | Fully Classical Behavior    
 
 UCFT doesn’t just categorize—it calculates how fast systems move between these regimes based on recursion depth.
 
