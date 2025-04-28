@@ -1,6 +1,5 @@
 The Explanation Version
 
-(For thinkers, scientists, philosophers — to reveal, not confront.)
 
 The Triadic Axiom of Existence:
 
