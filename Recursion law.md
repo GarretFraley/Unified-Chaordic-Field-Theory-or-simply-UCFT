@@ -51,7 +51,7 @@ Final Irrefutable Statement:
 
 	To question this is to enact it.
 
-	There is no outside, no denial, no alternative — because the very act of seeking one proves the laws.
+	Theret is no outside, no denial, no alternative — because the very act of seeking one proves the laws.
 
 	Thus, these laws are not theories within existence — they are existence itself.
 
